@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+		<file>icons/buttonDown.png</file>
+        <file>icons/buttonDownPressed.png</file>
+        <file>icons/buttonLeft.png</file>
+        <file>icons/buttonLeftPressed.png</file>
+        <file>icons/buttonRight.png</file>
+        <file>icons/buttonRightPressed.png</file>
+        <file>icons/buttonUp.png</file>
+        <file>icons/buttonUpPressed.png</file>
+    </qresource>
+</RCC>
